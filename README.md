@@ -189,11 +189,11 @@ This project demonstrates practical experience in:
 
 ## 📌 Project Highlights
 
-**Dataset:** 374 participants
-**Sleep Categories:** Healthy, Insomnia, Sleep Apnea
-**Primary Tool:** Microsoft Power BI
-**Data Preparation:** Python / Pandas
-**Dashboard Type:** Interactive Health Analytics Dashboard
+*Dataset:** 374 participants
+*Sleep Categories:** Healthy, Insomnia, Sleep Apnea
+*Primary Tool:** Microsoft Power BI
+*Data Preparation:** Python / Pandas
+*Dashboard Type:** Interactive Health Analytics Dashboard
 
 ---
 
