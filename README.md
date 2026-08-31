@@ -202,7 +202,8 @@ This project demonstrates practical experience in:
 Add a screenshot of the final dashboard here:
 
 ```markdown
-![Sleep Disorder Dashboard](dashboard_preview.png)
+![Sleep Disorder Dashboard](Images/Preview_Image.png)
+![Sleep Disorder Dashboard Preview 2](Images/Preview_Image_2.png)
 ```
 
 ---
